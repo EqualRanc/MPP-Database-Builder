@@ -6,4 +6,4 @@ The MPP database used by Agilent has the ability to search for chemicals in samp
 # Instructions
 1. Run the MPP-Database-Builder.py file.
 2. Enter in the file location on your local disk drive with the filename included, e.g. C:\Desktop\MyCASList.csv
-3. Allow the builder to complete and an appropriate .xlsx file should generate, e.g. MyCASList - PubChem Search Results.xlsx, in the same directory as the input CAS list.
+3. Allow the builder to complete and an appropriate .xlsx file will generate, e.g. MyCASList - PubChem Search Results.xlsx, in the same directory as the input CAS list.
